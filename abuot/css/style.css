@@ -1,0 +1,123 @@
+header{
+
+    padding: 30px;
+}
+.navbg{
+    background-color:darkcyan;
+    border-radius: 2px;
+}
+.nav-link {
+    color: black;
+    font-size: 20px;
+}
+
+button a{
+    text-decoration: none;
+    color:black;
+}
+
+/* banner start  */
+   .banner{
+    padding-bottom: 100px;
+   }
+   .bg{
+    position: relative;
+    overflow: hidden;
+    background-image: url(../images/abuot.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-attachment: fixed;  */
+    height: 100vh;
+    display: block;
+    /* width: 100%; */
+   }
+   .text{
+    text-align: center;
+    margin-top: 25%;
+    color:black;
+    transform: translate(-50% -50%);
+
+   }
+   .olmargin{
+    margin-top: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+   }
+   .breadcrumb-item.active {
+    color:black;
+}
+.color{
+    font-size: 20px;
+    text-decoration: none;
+    color:red;
+}
+/* banner end  */
+/* story start  */
+.story{
+ padding-bottom: 100px;
+}
+.story-container{
+    /* border: 1px solid red; */
+
+}
+.story_text{
+    /* margin:20px 0; */
+ /* border: 1px solid green; */
+}
+
+.story_titale{
+    margin: 11px 0 11px;
+ font-size:40px;
+ padding: 0 5px;
+}
+.est{
+    color: burlywood;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 25px;
+}
+.story-sub{
+    color: burlywood;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin: 5px 0 15px;
+}
+
+.story-pra{
+    padding: 0 5px;
+    font-size:20px;
+}
+.line-tex{
+    padding: 0 5px;
+    font-weight:400;
+
+}
+/* story end  */
+/* futer start  */
+.futer{
+    padding-bottom: 50px;
+    background-color: #F4F6F7 ;
+
+}
+.futer_img{
+    margin-top: 25px;
+    background-color: #FDFEFE;
+}
+.futer_text{
+}
+.futer_titale{
+    text-align: center;
+    margin-top: 8px;
+}
+.futer_pra{
+    padding: 0px 3px;
+    /* border: 1px solid; */
+   margin-bottom: 5px;
+}
+/* futer end  */

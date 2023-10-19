@@ -1,0 +1,89 @@
+header{
+
+    padding: 30px;
+}
+.navbg{
+    background-color:darkcyan;
+    border-radius: 2px;
+}
+/* nav start  */
+.mx-5 {
+    margin: 0px 0px;
+}
+
+button a{
+    text-decoration: none;
+    color:black;
+}
+.nav-link {
+    color: black;
+    font-size: 20px;
+}
+
+/* nav end  */
+
+
+/* banner start  */
+.banner{
+    padding-bottom: 100px;
+   }
+   .bg{
+    position: relative;
+    overflow: hidden;
+    background-image: url(../img/pexels-alex-andrews-821754.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-attachment: fixed;  */
+    height: 100vh;
+    display: block;
+    /* width: 100%; */
+   }
+   .text{
+    text-align: center;
+    margin-top: 25%;
+    color:black;
+    transform: translate(-50% -50%);
+
+   }
+   .olmargin{
+    margin-top: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+   }
+   .breadcrumb-item.active {
+    color:black;
+}
+.color{
+    font-size: 20px;
+    text-decoration: none;
+    color:red;
+}
+/* banner end  */
+/* contact strat  */
+.contact{
+    background-color: aliceblue;
+   padding-bottom: 50px;
+}
+.contactbox{
+    background-color: #FDFEFE;
+}
+
+.logo{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 40px;
+}
+.contact-h5{
+    margin: 10px 0px 10px;
+}
+.contact-h6{}
+/* contact end  */
+.form{
+    padding-bottom: 50px;
+}

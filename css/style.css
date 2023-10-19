@@ -1,0 +1,99 @@
+header{
+
+    padding: 30px;
+}
+.navbg{
+    background-color:darkcyan;
+    border-radius: 2px;
+}
+/* nav start  */
+.mx-5 {
+    margin: 0px 0px;
+}
+button a{
+    text-decoration: none;
+    color:black;
+}
+/* nav end  */
+/* slider strat */
+.slider{
+ padding-bottom: 100px;
+}
+.carousel-caption{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+    padding-top: 0px;
+}
+.slide-h2{
+    color:white;
+}
+.s-text{
+    color:white;
+}
+/* slider end */
+.Constructions{
+    padding-bottom: 100px;
+}
+
+.Construction_text{
+    margin-bottom: 50px;
+    /* border: 1px solid; */
+}
+.card-body{
+    padding:;
+}
+.card-title{
+    margin:10px 0 20px;
+
+}
+.card{
+    border: none;
+}
+.card-text{
+    padding: 0 0 30px;
+}
+.card_img img{
+    height:100%;
+}
+/* servises start */
+.Services{
+    background-color:#EBEDEF;
+    padding-bottom: 100px;
+}
+.fa-solid{
+    font-size: 50px;
+}
+.one{
+    border: 5px solid  #99A3A4;
+    height: 5px;
+    border-radius: 2px;
+    width: 40%;
+    /* background-color: #EBEDEF; */
+}
+
+
+.card-body a{
+    font-size: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+.mx{
+    margin: 0 auto;
+}
+/* servises end */
+.ourproject{
+    padding-bottom: 100px;
+    /* border:1px solid; */
+}
+.ms{
+    /* color: black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.nav-link {
+    color: black;
+    font-size: 20px;
+}

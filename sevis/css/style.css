@@ -1,0 +1,87 @@
+header{
+
+    padding: 30px;
+}
+.navbg{
+    background-color:darkcyan;
+    border-radius: 2px;
+}
+.nav-link {
+    color: black;
+    font-size: 20px;
+}
+
+button a{
+    text-decoration: none;
+    color:black;
+}
+
+
+/* banner start  */
+.banner{
+    padding-bottom: 100px;
+   }
+   .bg{
+    position: relative;
+    overflow: hidden;
+    background-image: url(../img/servesis.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-attachment: fixed;  */
+    height: 100vh;
+    display: block;
+    /* width: 100%; */
+   }
+   .text{
+    text-align: center;
+    margin-top: 25%;
+    color:black;
+    transform: translate(-50% -50%);
+
+   }
+   .olmargin{
+    margin-top: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+   }
+   .breadcrumb-item.active {
+    color:black;
+}
+.color{
+    font-size: 20px;
+    text-decoration: none;
+    color:red;
+}
+/* banner end  */
+/* servises start */
+.Services{
+    background-color:#EBEDEF;
+    padding-bottom: 100px;
+}
+.fa-solid{
+    font-size: 50px;
+}
+.one{
+    border: 5px solid  #99A3A4;
+    height: 5px;
+    border-radius: 2px;
+    width: 40%;
+    /* background-color: #EBEDEF; */
+}
+
+
+.card-body a{
+    font-size: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+.mx{
+    margin: 0 auto;
+}
+.text-center{
+    margin-bottom: 50px;
+}
+
